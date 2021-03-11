@@ -7,9 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	안녕하세요 팀프로젝트 연습 개인적으로 해보겠습니다.
-	제이름은 최재호라고합니다.<br> 
-	<hr>
-	<a href="jaeho.jsp">최재호 홈페이지</a>
+최재호의 홈페이지
 </body>
 </html>
