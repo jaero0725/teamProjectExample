@@ -1,13 +1,13 @@
-<%@ page language="java" contentType="text/html; charset=EUC-KR"
-    pageEncoding="EUC-KR"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="EUC-KR">
-<title>±êÇãºê Å×½ºÆ®¿ë</title>
+<meta charset="UTF-8">
+<title>ê¹ƒí—ˆë¸Œ í…ŒìŠ¤íŠ¸ìš©</title>
 </head>
 <body>
-	±êÇãºê pullÀº ¿Ï·á ÀÌÁ¦ pushÀÛ¾÷
+	ê¹ƒí—ˆë¸Œ pullì€ ì™„ë£Œ ì´ì œ pushìž‘ì—…
 	<img src="yuna.jpg">
 </body>
 </html>
