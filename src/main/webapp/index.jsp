@@ -11,5 +11,6 @@
 	제이름은 최재호라고합니다.<br> 
 	<hr>
 	<a href="jaeho.jsp">최재호 홈페이지</a>
+	<a href="kyungmin.jsp">민경민 홈페이지</a>
 </body>
 </html>
