@@ -12,5 +12,6 @@
 	<hr>
 	<a href="jaeho.jsp">최재호 홈페이지</a>
 	<a href="kyungmin.jsp">민경민 홈페이지</a>
+	<a href="youngbin.jsp">이영빈 홈페이지</a>
 </body>
 </html>
