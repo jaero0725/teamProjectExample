@@ -14,6 +14,8 @@
 	<a href="kyungmin.jsp">민경민 홈페이지</a><br/>
 	<a href="joohyeon.jsp">이주현 홈페이지</a><br/>
 	<a href="jinhyeon.jsp">기진현 홈페이지</a><br/>
-	<a href="hyeon.jsp">엄지현 홈페이지</a>
+	<a href="hyeon.jsp">엄지현 홈페이지</a><br/>
+	<a href="jinwon.jsp">유진원 홈페이지</a><br/>
+	<a href="youngbin.jsp">이영빈 홈페이지</a><br/>
 </body>
 </html>
